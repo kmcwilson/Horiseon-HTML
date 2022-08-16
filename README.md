@@ -7,7 +7,7 @@ I organized the code so that it would be easy for a developer to view.
 When reviewing the images I added an alternative text that reflected the name of the image. 
 
 ## Screenshot
-![screenshot](assets\images\challenge1image.jpg)
+![screenshot](assets/images/challenge1image.jpg)
 
 ## Live website
 [Link to live website](https://kmcwilson.github.io/carleton-bootcamp-challenge-1/)
