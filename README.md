@@ -1,4 +1,4 @@
-# Carleton Bootcamp Challenge 1
+# Horiseon HTML 
 
 ## Description
 I used semantic HTML identifiers in my code. I changed division tags starting with a header tag. Following this, I identified the
