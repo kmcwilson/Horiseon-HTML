@@ -10,4 +10,4 @@ When reviewing the images I added an alternative text that reflected the name of
 ![screenshot](assets/images/challenge1image.jpg)
 
 ## Live website
-[Link to live website](https://kmcwilson.github.io/carleton-bootcamp-challenge-1/)
+[Link to live website](https://kmcwilson.github.io/Horiseon-HTML/)
